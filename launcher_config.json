@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/XmasGame/eternalot-launcher/releases/download/v1.0.0/EternalOT.zip",
+	"newClientUrl" : "https://github.com/baerlix/eternalot-launcher/releases/download/v1.0.0/EternalOT.zip",
 	"clientExecutable": "client.exe"
 }
